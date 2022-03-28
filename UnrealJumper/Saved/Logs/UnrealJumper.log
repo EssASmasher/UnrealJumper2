@@ -1,0 +1,942 @@
+﻿Log file open, 03/28/22 13:23:41
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: UnrealJumper
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.231656
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=5xR -epicuserid=e7d57ecbebda49979e215da47e1c1848 -epiclocale=de -epicsandboxid=ue
+LogInit: Base Directory: D:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.28-12.23.42:340][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.28-12.23.42:340][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.28-12.23.42:340][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Engine.ini]
+[2022.03.28-12.23.42:340][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.28-12.23.42:340][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Engine.ini]
+[2022.03.28-12.23.42:340][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Engine.ini]
+[2022.03.28-12.23.42:340][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.28-12.23.42:340][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.28-12.23.42:340][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.28-12.23.42:340][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.28-12.23.42:340][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.28-12.23.42:340][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.28-12.23.42:340][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.28-12.23.42:340][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.28-12.23.42:340][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.28-12.23.42:340][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.28-12.23.42:340][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.28-12.23.42:340][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.28-12.23.42:340][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.28-12.23.42:342][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.28-12.23.42:342][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Engine.ini]
+[2022.03.28-12.23.42:342][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.28-12.23.42:342][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.28-12.23.42:342][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.28-12.23.42:342][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.28-12.23.42:342][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.28-12.23.42:342][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.28-12.23.42:342][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.28-12.23.42:342][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.28-12.23.42:342][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.28-12.23.42:342][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.28-12.23.42:342][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.28-12.23.42:342][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.28-12.23.42:342][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.28-12.23.42:342][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.28-12.23.42:342][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Engine.ini]
+[2022.03.28-12.23.42:342][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Engine.ini]
+[2022.03.28-12.23.42:361][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-12.23.42:361][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.28-12.23.42:361][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.28-12.23.42:361][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.28-12.23.42:362][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.28-12.23.42:363][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.28-12.23.42:363][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.28-12.23.42:363][  0]LogHAL: Display: Platform has ~ 8 GB [8530571264 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.28-12.23.42:363][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.28-12.23.42:363][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.28-12.23.42:363][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Scalability.ini]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.28-12.23.42:364][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Engine.ini]
+[2022.03.28-12.23.42:364][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Config/Windows/Editor.ini]
+[2022.03.28-12.23.42:365][  0]LogInit: Computer: DESKTOP-JQDV6G8
+[2022.03.28-12.23.42:365][  0]LogInit: User: kacpe
+[2022.03.28-12.23.42:365][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.03.28-12.23.42:365][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.28-12.23.42:365][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2022.03.28-12.23.42:365][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.28-12.23.42:365][  0]LogMemory: Process Physical Memory: 134.85 MB used, 134.85 MB peak
+[2022.03.28-12.23.42:365][  0]LogMemory: Process Virtual Memory: 117.57 MB used, 117.57 MB peak
+[2022.03.28-12.23.42:365][  0]LogMemory: Physical Memory: 5518.88 MB used,  2616.50 MB free, 8135.39 MB total
+[2022.03.28-12.23.42:365][  0]LogMemory: Virtual Memory: 134212176.00 MB used,  5548.09 MB free, 134217728.00 MB total
+[2022.03.28-12.23.42:371][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.28-12.23.42:415][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.28-12.23.42:416][  0]LogInit: Using OS detected language (de-DE).
+[2022.03.28-12.23.42:416][  0]LogInit: Using OS detected locale (en-AU).
+[2022.03.28-12.23.42:418][  0]LogTextLocalizationManager: No specific localization for 'de-DE' exists, so the 'de' localization will be used.
+[2022.03.28-12.23.42:419][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/de/Editor.locres' could not be opened for reading!
+[2022.03.28-12.23.42:419][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/de/EditorTutorials.locres' could not be opened for reading!
+[2022.03.28-12.23.42:419][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/de/Keywords.locres' could not be opened for reading!
+[2022.03.28-12.23.42:419][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/de/Category.locres' could not be opened for reading!
+[2022.03.28-12.23.42:419][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/de/ToolTips.locres' could not be opened for reading!
+[2022.03.28-12.23.42:419][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/de/PropertyNames.locres' could not be opened for reading!
+[2022.03.28-12.23.42:419][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/de/Engine.locres' could not be opened for reading!
+[2022.03.28-12.23.42:420][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.28-12.23.42:428][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.28-12.23.42:442][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.28-12.23.42:442][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.28-12.23.42:661][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.28-12.23.42:661][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.28-12.23.42:661][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.28-12.23.42:661][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.28-12.23.42:764][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2022.03.28-12.23.42:764][  0]LogD3D11RHI:       6052/0/4067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.03.28-12.23.42:766][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.28-12.23.42:766][  0]LogD3D11RHI:       0/0/4067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.28-12.23.42:766][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.03.28-12.23.42:773][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.28-12.23.42:773][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.28-12.23.42:773][  0]LogWindows: EnumDisplayDevices:
+[2022.03.28-12.23.42:773][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2022.03.28-12.23.42:773][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.03.28-12.23.42:773][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.03.28-12.23.42:774][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.03.28-12.23.42:774][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.03.28-12.23.42:774][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2022.03.28-12.23.42:774][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2022.03.28-12.23.42:774][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2022.03.28-12.23.42:774][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2022.03.28-12.23.42:831][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.28-12.23.42:831][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.28-12.23.42:831][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.28-12.23.42:861][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.28-12.23.42:863][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.28-12.23.43:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.28-12.23.43:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.28-12.23.43:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.28-12.23.43:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.28-12.23.43:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.28-12.23.43:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.28-12.23.43:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.28-12.23.43:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.28-12.23.43:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.28-12.23.43:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.28-12.23.43:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.28-12.23.43:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.28-12.23.43:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.28-12.23.43:260][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.28-12.23.43:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.28-12.23.43:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.28-12.23.43:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.28-12.23.43:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.28-12.23.43:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.28-12.23.43:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.28-12.23.43:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.28-12.23.43:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.28-12.23.43:346][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.28-12.23.43:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.28-12.23.43:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.28-12.23.43:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.28-12.23.43:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.28-12.23.43:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.28-12.23.43:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.28-12.23.43:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.28-12.23.43:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.28-12.23.43:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.28-12.23.43:426][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.28-12.23.43:435][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.28-12.23.43:499][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.28-12.23.43:499][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Intermediate/Shaders/WorkingDirectory/15084/).
+[2022.03.28-12.23.43:499][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kacpe/AppData/Local/Temp/UnrealShaderWorkingDir/9455CACD46196BA391C9E59DD40101A3/'.
+[2022.03.28-12.23.43:499][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.28-12.23.43:499][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.28-12.23.44:278][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.28-12.23.44:395][  0]LogDerivedDataCache: Loaded boot cache 0.12s 77MB C:/Users/kacpe/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.28-12.23.44:395][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kacpe/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.03.28-12.23.44:395][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.28-12.23.44:395][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.28-12.23.44:395][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.28-12.23.44:395][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.28-12.23.44:411][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.28-12.23.44:411][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.28-12.23.44:411][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.28-12.23.44:423][  0]LogDerivedDataCache: Speed tests for C:/Users/kacpe/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.03.28-12.23.44:423][  0]LogDerivedDataCache: Display: Performance to C:/Users/kacpe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=524.65MBs, RandomWriteSpeed=99.65MBs. Assigned SpeedClass 'Local'
+[2022.03.28-12.23.44:431][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kacpe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.28-12.23.44:431][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.28-12.23.44:431][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.28-12.23.44:491][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.28-12.23.44:491][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.28-12.23.44:520][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2022.03.28-12.23.44:741][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.28-12.23.44:741][  0]LogInit: Active device profile: [000001B5EEF4E200][000001B5ECB68DC0 49] Windows
+[2022.03.28-12.23.44:742][  0]LogInit: Profiles: [000001B5EEF4E200][000001B5ECB68DC0 49] Windows, [000001B5EEEF2400][000001B5E4548F40 49] WindowsNoEditor, [000001B5EEF4D500][000001B5E454D0C0 49] WindowsServer, [000001B5EEEF3000][000001B5E4551240 49] WindowsClient, [000001B5EEF4DE00][000001B5E45553C0 49] IOS, [000001B5EEEF2000][000001B5E4559540 49] iPadAir, [000001B5EEF4D400][000001B5ECB6D680 49] iPadAir2, [000001B5EEE9A100][000001B5EFB818C0 49] IPadPro, [000001B5EEE9A200][000001B5E455D900 49] iPadAir3, [000001B5EEEF1300][000001B5EFB85A40 49] iPadAir4, [000001B5EEE9BA00][000001B5EFB8DBC0 49] iPadMini2, [000001B5EEEF2900][000001B5EFB91D40 49] iPadMini3, [000001B5EEE99400][000001B5EFB94200 49] iPadMini4, [000001B5EEEF3B00][000001B5EFB98380 49] iPadMini5, [000001B5EEEBDA00][000001B5EFBA0640 49] iPhone6, [000001B5EEEBDB00][000001B5EFB9C680 49] iPodTouch6, [000001B5EEE9BF00][000001B5EFBA8940 49] iPhone7, [000001B5EEE99F00][000001B5EFBA4980 49] iPodTouch7, [000001B5EEEBF200][000001B5EFBACB00 49] iPhone5S, [000001B5EEE9B200][000001B5EFBB0C80 49] iPhone6Plus, [000001B5EEEBD600][000001B5EFBB4E00 49] iPhone6S, [000001B5EEE98E00][000001B5EFBB8F80 49] iPhone6SPlus, [000001B5EEEBC700][000001B5EFBBD100 49] iPhone7Plus, [000001B5EEE98A00][000001B5EFBC1280 49] iPhoneSE, [000001B5EEEBEA00][000001B5EFBC5400 49] iPhone8, [000001B5EEE9A900][000001B5EFBC9580 49] iPhone8Plus, [000001B5EEEBC200][000001B5EFBCD700 49] iPhoneX, [000001B5EEE9B000][000001B5EFB89840 49] iPhoneXS, [000001B5EEEBE500][000001B5EFBD1980 49] iPhoneXSMax, [000001B5EEE9BD00][000001B5EFBD5AC0 49] iPhoneXR, [000001B5EEEBCD00][000001B5EFBDDC40 49] iPhone11, [000001B5EEE9A800][000001B5EFBE0100 49] iPhone11Pro, [000001B5EEEBE800][000001B5EFBE4280 49] iPhone11ProMax, [000001B5EEE9B700][000001B5EFBE8400 49] iPhoneSE2, [000001B5EEEBFA00][000001B5EFBEC580 49] iPhone12Mini, [000001B5EEE9A300][000001B5EFBF0700 49] iPhone12, [000001B5EEEBE200][000001B5EFBF4880 49] iPhone12Pro, [000001B5EEE99E00][000001B5EFBF8A00 49] iPhone12ProMax, [000001B5EEF4E700][000001B5EFBFCB80 49] iPadPro105, [000001B5EEE98900][000001B5EFC00D00 49] iPadPro129, [000001B5EEF4EE00][000001B5EFC04E80 49] iPadPro97, [000001B5EEE9B400][000001B5EFC09000 49] iPadPro2_129, [000001B5EEF4F200][000001B5EFC0D180 49] iPad5, [000001B5EEE99900][000001B5EFC11300 49] iPad6, [000001B5EEF4EB00][000001B5EFC15480 49] iPad7, [000001B5EEE9B100][000001B5EFC19600 49] iPad8, [000001B5EEF4E100][000001B5EFC1D780 49] iPadPro11, [000001B5EEE99600][000001B5EFBD98C0 49] iPadPro2_11, [000001B5EEF4C400][000001B5EFC21A00 49] iPadPro3_129, [000001B5EEE9AD00][000001B5EFC25B40 49] iPadPro4_129, [000001B5EEF4E900][000001B5EFC2DCC0 49] AppleTV, [000001B5EEE98600][000001B5EFC30180 49] AppleTV4K, [000001B5EEF4D300][000001B5EFC34300 49] TVOS, [000001B5EEE9A600][000001B5EFC38480 49] Mac, [000001B5EEF4EF00][000001B5EFC3C600 49] MacClient, [000001B5EEE9A700][000001B5EFC40780 49] MacNoEditor, [000001B5EEF4EA00][000001B5EFC44900 49] MacServer, [000001B5EEE9BC00][000001B5EFC48A80 49] Linux, [000001B5EEF4DC00][000001B5EFC4CC00 49] LinuxAArch64, [000001B5EEE99D00][000001B5EFC50D80 49] LinuxNoEditor, [000001B5EEF4D700][000001B5EFC54F00 49] LinuxAArch64NoEditor, [000001B5EEE9B900][000001B5EFC59080 49] LinuxClient, [000001B5EEF4C100][000001B5EFC5D200 49] LinuxAArch64Client, [000001B5EEE9AC00][000001B5EFC61380 49] LinuxServer, [000001B5EEF4CE00][000001B5EFC65500 49] LinuxAArch64Server, [000001B5EEE98300][000001B5EFC69680 49] Android, [000001B5EEF4D200][000001B5EFC6D800 49] Android_Low, [000001B5EEE9A000][000001B5EFC29940 49] Android_Mid, [000001B5EEF4C300][000001B5EFC71A80 49] Android_High, [000001B5EEE99100][000001B5EFC75BC0 49] Android_Default, [000001B5EEF4C200][000001B5EFC79D00 49] Android_Adreno4xx, [000001B5EEE98B00][000001B5EFC801C0 49] Android_Adreno5xx_Low, [000001B5EEF4F400][000001B5EFC84340 49] Android_Adreno5xx, [000001B5EEE99700][000001B5EFC884C0 49] Android_Adreno6xx, [000001B5EEF4DA00][000001B5EFC8C640 49] Android_Adreno6xx_Vulkan, [000001B5EEE98400][000001B5EFC907C0 49] Android_Mali_T6xx, [000001B5EEF4C600][000001B5EFC94940 49] Android_Mali_T7xx, [000001B5EEE9BE00][000001B5EFC98AC0 49] Android_Mali_T8xx, [000001B5EEF4F000][000001B5EFC9CC40 49] Android_Mali_G71, [000001B5EEE9AB00][000001B5EFCA0DC0 49] Android_Mali_G72, [000001B5EEEF2800][000001B5EFE28F40 49] Android_Mali_G72_Vulkan, [000001B5EEEBFC00][000001B5EFE2D0C0 49] Android_Mali_G76, [000001B5EEEF0700][000001B5EFE31240 49] Android_Mali_G76_Vulkan, [000001B5EEEBFE00][000001B5EFE353C0 49] Android_Mali_G77, [000001B5EEEF0E00][000001B5EFE39540 49] Android_Mali_G77_Vulkan, [000001B5EEEBD300][000001B5EFE3D6C0 49] Android_Vulkan_SM5, [000001B5EEEF3100][000001B5EFE41840 49] Android_PowerVR_G6xxx, [000001B5EEEBC400][000001B5EFC7D980 49] Android_PowerVR_GT7xxx, [000001B5EEEF1100][000001B5EFE45AC0 49] Android_PowerVR_GE8xxx, [000001B5EEEBEF00][000001B5EFE49C00 49] Android_PowerVR_GM9xxx, [000001B5EEEF3400][000001B5EFE4DD40 49] Android_PowerVR_GM9xxx_Vulkan, [000001B5EEEBFD00][000001B5EFE54200 49] Android_TegraK1, [000001B5EEEF0100][000001B5EFE58380 49] Android_Unknown_Vulkan, [000001B5EEEBD000][000001B5EFE5C500 49] Lumin, [000001B5EEEF0300][000001B5EFE60680 49] Lumin_Desktop, [000001B5EEEBF100][000001B5EFE64800 49] HoloLens, 
+[2022.03.28-12.23.44:857][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.28-12.23.44:857][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.28-12.23.44:857][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.28-12.23.44:857][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.28-12.23.44:857][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.28-12.23.44:878][  0]LogNetVersion: UnrealJumper 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2973125356)
+[2022.03.28-12.23.45:526][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.28-12.23.45:586][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.059756 seconds
+[2022.03.28-12.23.45:591][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.03.28-12.23.45:591][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.03.28-12.23.45:592][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.28-12.23.46:154][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.28-12.23.46:179][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.28-12.23.46:350][  0]SourceControl: Source control is disabled
+[2022.03.28-12.23.46:350][  0]SourceControl: Source control is disabled
+[2022.03.28-12.23.46:354][  0]SourceControl: Source control is disabled
+[2022.03.28-12.23.46:357][  0]SourceControl: Source control is disabled
+[2022.03.28-12.23.46:367][  0]SourceControl: Source control is disabled
+[2022.03.28-12.23.46:373][  0]LogUProjectInfo: Found projects:
+[2022.03.28-12.23.46:614][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.28-12.23.46:639][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.28-12.23.46:639][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.28-12.23.46:698][  0]LogCollectionManager: Loaded 0 collections in 0.000877 seconds
+[2022.03.28-12.23.46:723][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Collections/' took 0.00s
+[2022.03.28-12.23.46:723][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/Developers/kacpe/Collections/' took 0.00s
+[2022.03.28-12.23.46:723][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/Collections/' took 0.00s
+[2022.03.28-12.23.46:723][  0]LogOcInput: OculusInput pre-init called
+[2022.03.28-12.23.46:735][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.03.28-12.23.46:735][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.03.28-12.23.46:780][  0]LogEngine: Initializing Engine...
+[2022.03.28-12.23.47:029][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.28-12.23.47:084][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.28-12.23.47:093][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.28-12.23.47:264][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.28-12.23.47:273][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.28-12.23.47:292][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.28-12.23.47:296][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.28-12.23.47:296][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.28-12.23.47:297][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.28-12.23.47:297][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.28-12.23.47:297][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.28-12.23.47:297][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.28-12.23.47:297][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.28-12.23.47:297][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.28-12.23.47:297][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.28-12.23.47:297][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.28-12.23.47:297][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.28-12.23.47:297][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.28-12.23.47:306][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.28-12.23.47:306][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.28-12.23.47:361][  0]LogAudioMixer: Display: Using Audio Device EssA sluchafony (Realtek High Definition Audio)
+[2022.03.28-12.23.47:363][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.28-12.23.47:365][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.28-12.23.47:365][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.28-12.23.47:366][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.28-12.23.47:366][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.28-12.23.47:366][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.28-12.23.47:367][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.28-12.23.47:367][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.28-12.23.47:367][  0]LogInit: FAudioDevice initialized.
+[2022.03.28-12.23.47:495][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.28-12.23.47:496][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.28-12.23.47:596][  0]LogDerivedDataCache: Saved boot cache 0.10s 77MB C:/Users/kacpe/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.28-12.23.47:597][  0]LogInit: Texture streaming: Enabled
+[2022.03.28-12.23.47:610][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.03.28-12.23.47:613][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.28-12.23.47:614][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.28-12.23.47:615][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.28-12.23.47:630][  0]LogInit: Transaction tracking system initialized
+[2022.03.28-12.23.47:653][  0]BlueprintLog: New page: Editor Load
+[2022.03.28-12.23.47:901][  0]LocalizationService: Localization service is disabled
+[2022.03.28-12.23.47:926][  0]TimingProfiler: Initialize
+[2022.03.28-12.23.47:927][  0]TimingProfiler: OnSessionChanged
+[2022.03.28-12.23.47:927][  0]LoadingProfiler: Initialize
+[2022.03.28-12.23.47:927][  0]LoadingProfiler: OnSessionChanged
+[2022.03.28-12.23.47:927][  0]NetworkingProfiler: Initialize
+[2022.03.28-12.23.47:927][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.28-12.23.47:927][  0]MemoryProfiler: Initialize
+[2022.03.28-12.23.47:927][  0]MemoryProfiler: OnSessionChanged
+[2022.03.28-12.23.48:372][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.28-12.23.48:372][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.28-12.23.48:376][  0]LogFileCache: Scanning file cache for directory 'C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/' took 0.00s
+[2022.03.28-12.23.48:731][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.28-12.23.48:735][  0]SourceControl: Source control is disabled
+[2022.03.28-12.23.48:735][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.631
+[2022.03.28-12.23.49:046][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/UE_4.26/FeaturePacks/StarterContent.upack)
+[2022.03.28-12.23.49:186][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.28-12.23.49:186][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.28-12.23.49:186][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.28-12.23.49:689][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.03.28-12.23.49:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.03.28-12.23.49:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.03.28-12.23.49:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.03.28-12.23.50:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.03.28-12.23.50:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.03.28-12.23.50:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.03.28-12.23.50:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.03.28-12.23.50:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.03.28-12.23.50:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.03.28-12.23.50:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.03.28-12.23.50:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.03.28-12.23.50:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.03.28-12.23.50:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.03.28-12.23.50:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.03.28-12.23.50:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.03.28-12.23.50:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.03.28-12.23.50:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.03.28-12.23.50:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Fire01.uasset"
+[2022.03.28-12.23.50:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.03.28-12.23.50:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.03.28-12.23.50:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.03.28-12.23.50:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Light01.uasset"
+[2022.03.28-12.23.50:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.03.28-12.23.50:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Light02.uasset"
+[2022.03.28-12.23.50:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.03.28-12.23.50:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.03.28-12.23.50:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.03.28-12.23.50:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.03.28-12.23.50:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.03.28-12.23.50:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.03.28-12.23.50:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.03.28-12.23.50:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.03.28-12.23.50:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.03.28-12.23.50:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Steam01.uasset"
+[2022.03.28-12.23.50:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.03.28-12.23.50:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.03.28-12.23.51:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.03.28-12.23.51:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.03.28-12.23.51:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.03.28-12.23.51:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.03.28-12.23.51:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.03.28-12.23.51:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.03.28-12.23.51:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.03.28-12.23.51:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.03.28-12.23.51:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.03.28-12.23.51:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.03.28-12.23.51:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.03.28-12.23.51:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.03.28-12.23.51:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.03.28-12.23.51:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.03.28-12.23.51:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.03.28-12.23.52:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.03.28-12.23.52:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.03.28-12.23.52:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.03.28-12.23.52:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.03.28-12.23.52:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.03.28-12.23.52:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Maps/StarterMap.umap"
+[2022.03.28-12.23.53:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.03.28-12.23.53:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.03.28-12.23.53:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.03.28-12.23.53:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.03.28-12.23.53:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.03.28-12.23.53:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.03.28-12.23.53:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.03.28-12.23.53:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.03.28-12.23.53:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.03.28-12.23.53:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.03.28-12.23.53:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.03.28-12.23.53:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.03.28-12.23.53:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.03.28-12.23.53:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.03.28-12.23.53:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.03.28-12.23.53:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.03.28-12.23.53:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.03.28-12.23.53:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.03.28-12.23.53:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.03.28-12.23.53:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.03.28-12.23.53:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.03.28-12.23.53:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.03.28-12.23.54:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.03.28-12.23.54:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.03.28-12.23.54:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.03.28-12.23.54:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.03.28-12.23.54:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.03.28-12.23.54:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.03.28-12.23.54:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.03.28-12.23.54:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.03.28-12.23.54:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.03.28-12.23.54:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.03.28-12.23.54:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.03.28-12.23.54:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.03.28-12.23.54:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.03.28-12.23.54:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.03.28-12.23.54:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.03.28-12.23.54:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.03.28-12.23.54:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.03.28-12.23.54:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.03.28-12.23.54:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.03.28-12.23.54:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.03.28-12.23.54:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.03.28-12.23.54:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.03.28-12.23.54:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.03.28-12.23.54:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.03.28-12.23.54:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.03.28-12.23.54:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.03.28-12.23.54:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.03.28-12.23.54:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.03.28-12.23.54:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.03.28-12.23.54:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.03.28-12.23.54:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.03.28-12.23.54:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.03.28-12.23.54:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.03.28-12.23.54:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.03.28-12.23.54:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.03.28-12.23.54:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.03.28-12.23.55:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.03.28-12.23.55:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.03.28-12.23.55:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.03.28-12.23.55:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.03.28-12.23.55:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.03.28-12.23.55:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.03.28-12.23.55:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.03.28-12.23.55:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/SM_Door.uasset"
+[2022.03.28-12.23.55:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.03.28-12.23.55:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.03.28-12.23.55:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.03.28-12.23.55:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.03.28-12.23.55:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.03.28-12.23.55:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.03.28-12.23.55:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.03.28-12.23.55:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.03.28-12.23.55:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.03.28-12.23.55:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.03.28-12.23.55:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.03.28-12.23.55:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.03.28-12.23.55:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.03.28-12.23.55:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.03.28-12.23.55:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.03.28-12.23.55:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.03.28-12.23.55:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.03.28-12.23.55:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.03.28-12.23.55:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.03.28-12.23.55:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.03.28-12.23.55:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.03.28-12.23.55:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.03.28-12.23.55:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.03.28-12.23.55:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.03.28-12.23.55:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.03.28-12.23.55:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.03.28-12.23.55:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.03.28-12.23.55:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.03.28-12.23.55:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.03.28-12.23.55:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.03.28-12.23.55:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.03.28-12.23.55:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.03.28-12.23.56:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.03.28-12.23.56:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.03.28-12.23.56:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.03.28-12.23.56:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.03.28-12.23.56:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.03.28-12.23.56:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.03.28-12.23.56:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.03.28-12.23.56:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.03.28-12.23.56:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.03.28-12.23.56:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.03.28-12.23.56:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.03.28-12.23.56:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.03.28-12.23.56:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.03.28-12.23.56:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.03.28-12.23.56:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.03.28-12.23.57:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.03.28-12.23.57:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.03.28-12.23.57:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.03.28-12.23.57:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.03.28-12.23.57:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.03.28-12.23.58:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.03.28-12.23.58:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.03.28-12.23.58:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.03.28-12.23.58:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.03.28-12.23.58:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.03.28-12.23.58:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.03.28-12.23.58:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.03.28-12.23.58:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.03.28-12.23.58:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.03.28-12.23.58:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.03.28-12.23.58:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.03.28-12.23.58:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.03.28-12.23.58:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.03.28-12.23.59:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.03.28-12.23.59:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.03.28-12.23.59:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.03.28-12.23.59:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.03.28-12.23.59:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.03.28-12.24.00:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.03.28-12.24.00:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.03.28-12.24.00:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.03.28-12.24.00:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.03.28-12.24.00:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.03.28-12.24.00:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.03.28-12.24.01:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.03.28-12.24.01:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.03.28-12.24.01:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.03.28-12.24.01:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.03.28-12.24.01:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.03.28-12.24.01:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.03.28-12.24.01:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.03.28-12.24.01:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.03.28-12.24.01:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.03.28-12.24.01:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.03.28-12.24.01:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.03.28-12.24.01:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.03.28-12.24.01:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.03.28-12.24.01:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.03.28-12.24.01:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.03.28-12.24.01:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.03.28-12.24.01:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.03.28-12.24.02:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.03.28-12.24.02:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.03.28-12.24.02:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.03.28-12.24.02:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.03.28-12.24.02:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.03.28-12.24.02:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.03.28-12.24.02:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.03.28-12.24.02:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.03.28-12.24.03:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.03.28-12.24.03:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.03.28-12.24.03:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.03.28-12.24.03:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.03.28-12.24.03:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.03.28-12.24.04:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.03.28-12.24.04:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.03.28-12.24.04:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.03.28-12.24.04:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.03.28-12.24.04:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.03.28-12.24.04:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.03.28-12.24.05:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.03.28-12.24.05:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.03.28-12.24.05:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.03.28-12.24.05:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.03.28-12.24.05:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.03.28-12.24.05:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.03.28-12.24.06:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.03.28-12.24.06:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.03.28-12.24.06:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.03.28-12.24.06:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.03.28-12.24.06:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.03.28-12.24.06:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.03.28-12.24.06:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.03.28-12.24.06:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.03.28-12.24.06:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.03.28-12.24.06:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.03.28-12.24.06:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.03.28-12.24.06:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.03.28-12.24.06:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.03.28-12.24.07:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.03.28-12.24.07:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.03.28-12.24.07:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.03.28-12.24.07:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.03.28-12.24.07:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.03.28-12.24.07:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.03.28-12.24.07:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.03.28-12.24.07:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.03.28-12.24.07:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.03.28-12.24.07:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.03.28-12.24.07:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.03.28-12.24.07:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.03.28-12.24.08:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.03.28-12.24.08:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.03.28-12.24.08:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.03.28-12.24.08:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.03.28-12.24.09:793][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2022.03.28-12.24.10:201][  0]LogStaticMesh: Built static mesh [0.41s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.03.28-12.24.12:867][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2022.03.28-12.24.14:233][  0]LogSavePackage: Moving 'C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Saved/Floor_400x400EE987B684569342833518F862EA93EEE.tmp' to 'C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2022.03.28-12.24.14:282][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2022.03.28-12.24.14:283][  0]Cmd: MAP LOAD FILE="C:/Users/kacpe/OneDrive/Documents/GitHub/UnrealJumper2/UnrealJumper/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.28-12.24.14:283][  0]LightingResults: New page: Lighting Build
+[2022.03.28-12.24.14:284][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.28-12.24.14:284][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.28-12.24.14:284][  0]MapCheck: New page: Map Check
+[2022.03.28-12.24.14:284][  0]LightingResults: New page: Lighting Build
+[2022.03.28-12.24.14:297][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.03.28-12.24.16:254][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
